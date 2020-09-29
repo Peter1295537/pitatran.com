@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: pitatran.com/sitemap.xml
+Sitemap: https://pitatran.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
